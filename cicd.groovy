@@ -1,4 +1,4 @@
-def newGit(repo)
+def newgit(rap)
 {
- git "https://github.com/intelliqittrainings/${repo}.git"
-}
+  git "https://github.com/intelliqittrainings/${rap}.git"
+  }
